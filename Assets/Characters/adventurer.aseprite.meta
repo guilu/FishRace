@@ -118,8 +118,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 224
+      x: 62
+      y: 161
       width: 19
       height: 29
     spriteID: cd9727947bb4a4393b83ae02977f283b
@@ -130,7 +130,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 224}
+    uvTransform: {x: 62, y: 161}
   - name: adventurer_1
     originalName: 
     pivot: {x: 0.5294118, y: -0.033333335}
@@ -138,8 +138,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 330
+      x: 310
+      y: 198
       width: 17
       height: 30
     spriteID: ea56d5e39fc4743b7a3e2b385a157786
@@ -150,7 +150,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 330}
+    uvTransform: {x: 310, y: 198}
   - name: adventurer_2
     originalName: 
     pivot: {x: 0.52631575, y: -0.033333335}
@@ -158,8 +158,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 150
+      x: 31
+      y: 198
       width: 19
       height: 30
     spriteID: 167a6b9ae324845488b8e903bb739709
@@ -170,7 +170,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 150}
+    uvTransform: {x: 31, y: 198}
   - name: adventurer_3
     originalName: 
     pivot: {x: 0.6, y: -0.03448276}
@@ -178,8 +178,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 488
-      y: 77
+      x: 34
+      y: 161
       width: 20
       height: 29
     spriteID: 7541ae09012ee4507b96a5ae17e626bf
@@ -190,7 +190,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 488, y: 77}
+    uvTransform: {x: 34, y: 161}
   - name: adventurer_4
     originalName: 
     pivot: {x: 0.47368422, y: -0.04761905}
@@ -198,8 +198,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 266
-      y: 316
+      x: 320
+      y: 347
       width: 19
       height: 21
     spriteID: 413616c3b076347b88e198ded075f5b6
@@ -210,7 +210,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 266, y: 316}
+    uvTransform: {x: 320, y: 347}
   - name: adventurer_5
     originalName: 
     pivot: {x: 0.49999997, y: -0.045454547}
@@ -218,8 +218,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 406
-      y: 213
+      x: 4
+      y: 347
       width: 20
       height: 22
     spriteID: a026cf72b01994a798096c81dcfb8b53
@@ -230,18 +230,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 406, y: 213}
+    uvTransform: {x: 4, y: 347}
   - name: adventurer_6
     originalName: 
-    pivot: {x: 0.52631575, y: -0.04761905}
+    pivot: {x: 0.52631575, y: -0.045454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 293
-      y: 316
+      x: 200
+      y: 347
       width: 19
-      height: 21
+      height: 22
     spriteID: 2ebe7bc8b24254067bab060bf9e02072
     spriteBone: []
     spriteOutline: []
@@ -250,7 +250,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 293, y: 316}
+    uvTransform: {x: 200, y: 347}
   - name: adventurer_7
     originalName: 
     pivot: {x: 0.4705882, y: -0.04761905}
@@ -258,8 +258,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 288
-      y: 286
+      x: 484
+      y: 347
       width: 17
       height: 21
     spriteID: 6fcc6f148e4fd43bf83528c8ab54615b
@@ -270,7 +270,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 288, y: 286}
+    uvTransform: {x: 484, y: 347}
   - name: adventurer_8
     originalName: 
     pivot: {x: 0.39999998, y: -0.035714287}
@@ -278,8 +278,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 188
+      x: 306
+      y: 125
       width: 20
       height: 28
     spriteID: 710fc14eb6d3d47aca03df8afccdb20e
@@ -290,7 +290,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 188}
+    uvTransform: {x: 306, y: 125}
   - name: adventurer_10
     originalName: 
     pivot: {x: 0.45000002, y: -0.040000003}
@@ -298,8 +298,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 352
-      y: 146
+      x: 141
+      y: 238
       width: 20
       height: 25
     spriteID: 7351ae7d6d80c4685b1aac1bba959cc8
@@ -310,7 +310,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 352, y: 146}
+    uvTransform: {x: 141, y: 238}
   - name: adventurer_11
     originalName: 
     pivot: {x: 0.34782606, y: -0.035714287}
@@ -318,8 +318,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 457
-      y: 77
+      x: 4
+      y: 125
       width: 23
       height: 28
     spriteID: a1cd10990d1e1405da449f460fa7acd4
@@ -330,7 +330,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 457, y: 77}
+    uvTransform: {x: 4, y: 125}
   - name: adventurer_12
     originalName: 
     pivot: {x: 0.45000002, y: -0.037037037}
@@ -338,8 +338,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 403
+      x: 214
+      y: 161
       width: 20
       height: 27
     spriteID: ae0563e353cbc4ca19b7ee6aab977957
@@ -350,7 +350,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 403}
+    uvTransform: {x: 214, y: 161}
   - name: adventurer_14
     originalName: 
     pivot: {x: 0.49999997, y: -0.041666668}
@@ -358,8 +358,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 205
-      y: 179
+      x: 405
+      y: 238
       width: 20
       height: 24
     spriteID: 586df8747cde94ccda35c89fa80e45b7
@@ -370,7 +370,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 205, y: 179}
+    uvTransform: {x: 405, y: 238}
   - name: adventurer_15
     originalName: 
     pivot: {x: 0.49999997, y: -0.045454547}
@@ -378,8 +378,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 434
-      y: 213
+      x: 32
+      y: 347
       width: 20
       height: 22
     spriteID: 7948c15eb0bad4a888b9d19fb0b04058
@@ -390,7 +390,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 434, y: 213}
+    uvTransform: {x: 32, y: 347}
   - name: adventurer_16
     originalName: 
     pivot: {x: 0.4210526, y: -0.111111104}
@@ -398,8 +398,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 260
+      x: 283
+      y: 198
       width: 19
       height: 27
     spriteID: ce0a74965cf344dc6854813391e7d850
@@ -410,7 +410,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 260}
+    uvTransform: {x: 283, y: 198}
   - name: adventurer_17
     originalName: 
     pivot: {x: 0.5238095, y: -0.39130434}
@@ -418,8 +418,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 442
-      y: 146
+      x: 347
+      y: 238
       width: 21
       height: 23
     spriteID: 238c5ea850741415696e3cc61cc7dc1d
@@ -430,18 +430,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 442, y: 146}
+    uvTransform: {x: 347, y: 238}
   - name: adventurer_18
     originalName: 
-    pivot: {x: 0.4666666, y: -0.45000002}
+    pivot: {x: 0.4666666, y: -0.42857143}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 460
-      y: 286
+      x: 491
+      y: 408
       width: 15
-      height: 20
+      height: 21
     spriteID: 2474b560e51574191b4d8c4face84fce
     spriteBone: []
     spriteOutline: []
@@ -450,17 +450,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 460, y: 286}
+    uvTransform: {x: 491, y: 408}
   - name: adventurer_19
     originalName: 
-    pivot: {x: 0.47826084, y: -0.58823526}
+    pivot: {x: 0.4583333, y: -0.58823526}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 401
-      y: 316
-      width: 23
+      x: 288
+      y: 347
+      width: 24
       height: 17
     spriteID: d05aa42ed2fe9418380d81cc9537fd8e
     spriteBone: []
@@ -470,18 +470,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 401, y: 316}
+    uvTransform: {x: 288, y: 347}
   - name: adventurer_20
     originalName: 
-    pivot: {x: 0.27777776, y: -0.35000002}
+    pivot: {x: 0.27777776, y: -0.28571427}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 236
-      y: 286
+      x: 428
+      y: 347
       width: 18
-      height: 20
+      height: 21
     spriteID: a49bbcd65c4154d05b86686f0963e5b7
     spriteBone: []
     spriteOutline: []
@@ -490,17 +490,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 236, y: 286}
+    uvTransform: {x: 428, y: 347}
   - name: adventurer_21
     originalName: 
-    pivot: {x: 0.47826084, y: -0.4117647}
+    pivot: {x: 0.5384615, y: -0.4117647}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 432
-      y: 316
-      width: 23
+      x: 4
+      y: 322
+      width: 26
       height: 17
     spriteID: 6443bb1eb482b4705a384f6fca7c1c39
     spriteBone: []
@@ -510,7 +510,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 432, y: 316}
+    uvTransform: {x: 4, y: 322}
   - name: adventurer_22
     originalName: 
     pivot: {x: 0.41176465, y: -0.16129032}
@@ -518,8 +518,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 182
+      x: 83
+      y: 198
       width: 17
       height: 31
     spriteID: 85680a86330e44a728b003242f14b6a2
@@ -530,7 +530,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 182}
+    uvTransform: {x: 83, y: 198}
   - name: adventurer_23
     originalName: 
     pivot: {x: 0.41176465, y: -0.16666666}
@@ -538,8 +538,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 368
+      x: 335
+      y: 198
       width: 17
       height: 30
     spriteID: 534f66b93bb9147d88fea70e36dc766d
@@ -550,7 +550,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 368}
+    uvTransform: {x: 335, y: 198}
   - name: adventurer_24
     originalName: 
     pivot: {x: 0.5882353, y: -0.06666667}
@@ -558,8 +558,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 474
-      y: 114
+      x: 360
+      y: 198
       width: 34
       height: 15
     spriteID: 04e497853fc294aaa8a145f49fb0532c
@@ -570,7 +570,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 474, y: 114}
+    uvTransform: {x: 360, y: 198}
   - name: adventurer_25
     originalName: 
     pivot: {x: 0.5882353, y: -0.06666667}
@@ -578,8 +578,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 212
-      y: 146
+      x: 402
+      y: 198
       width: 34
       height: 15
     spriteID: a31ec901c8c3940dba39892fa5104239
@@ -590,7 +590,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 212, y: 146}
+    uvTransform: {x: 402, y: 198}
   - name: adventurer_26
     originalName: 
     pivot: {x: 0.5882353, y: -0.0625}
@@ -598,8 +598,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 272
-      y: 114
+      x: 172
+      y: 161
       width: 34
       height: 16
     spriteID: 2c636159583434e688c276f8bae8b604
@@ -610,7 +610,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 272, y: 114}
+    uvTransform: {x: 172, y: 161}
   - name: adventurer_27
     originalName: 
     pivot: {x: 0.5333333, y: -0.05882353}
@@ -618,8 +618,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 254
-      y: 146
+      x: 444
+      y: 198
       width: 30
       height: 17
     spriteID: 3b20ffbdda0c6467e8b15a218f28d923
@@ -630,7 +630,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 254, y: 146}
+    uvTransform: {x: 444, y: 198}
   - name: adventurer_28
     originalName: 
     pivot: {x: 0.4545454, y: -0.05882353}
@@ -638,8 +638,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 206
-      y: 286
+      x: 454
+      y: 347
       width: 22
       height: 17
     spriteID: a5366c8d9ab484ecda59f6c6b0934e9f
@@ -650,17 +650,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 206, y: 286}
+    uvTransform: {x: 454, y: 347}
   - name: adventurer_29
     originalName: 
-    pivot: {x: 0.23076923, y: 0}
+    pivot: {x: 0.28571433, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 291
-      width: 13
+      x: 493
+      y: 238
+      width: 14
       height: 34
     spriteID: 263a242b58634436489477148bbe8e98
     spriteBone: []
@@ -670,17 +670,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 291}
+    uvTransform: {x: 493, y: 238}
   - name: adventurer_30
     originalName: 
-    pivot: {x: 0.23076923, y: 0}
+    pivot: {x: 0.28571433, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 333
-      width: 13
+      x: 4
+      y: 280
+      width: 14
       height: 34
     spriteID: ecdd0935423a046598dceb422a6b2a1b
     spriteBone: []
@@ -690,7 +690,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 333}
+    uvTransform: {x: 4, y: 280}
   - name: adventurer_31
     originalName: 
     pivot: {x: 0.3333333, y: 0}
@@ -698,8 +698,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 406
+      x: 4
+      y: 238
       width: 15
       height: 34
     spriteID: 02aaec98371114376be4c18350539cbc
@@ -710,7 +710,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 406}
+    uvTransform: {x: 4, y: 238}
   - name: adventurer_32
     originalName: 
     pivot: {x: 0.28571433, y: 0}
@@ -718,8 +718,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 249
+      x: 26
+      y: 280
       width: 14
       height: 34
     spriteID: c4f747bf79d6142f1a676e78765a4ade
@@ -730,7 +730,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 249}
+    uvTransform: {x: 26, y: 280}
   - name: adventurer_33
     originalName: 
     pivot: {x: 0.25000003, y: -0.06896552}
@@ -738,8 +738,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 118
-      y: 249
+      x: 126
+      y: 280
       width: 16
       height: 29
     spriteID: 8875a108f050d4f7282defe65b98fbea
@@ -750,7 +750,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 118, y: 249}
+    uvTransform: {x: 126, y: 280}
   - name: adventurer_34
     originalName: 
     pivot: {x: 0.2666667, y: -0.15384614}
@@ -758,8 +758,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 463
-      y: 316
+      x: 230
+      y: 408
       width: 15
       height: 26
     spriteID: c666a0fa03fc343e086f709b71937f03
@@ -770,7 +770,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 463, y: 316}
+    uvTransform: {x: 230, y: 408}
   - name: adventurer_35
     originalName: 
     pivot: {x: 0.3333333, y: -0.20833331}
@@ -778,8 +778,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 164
-      y: 350
+      x: 323
+      y: 408
       width: 15
       height: 24
     spriteID: b869702c44e994bdbadb0da6726d6002
@@ -790,7 +790,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 164, y: 350}
+    uvTransform: {x: 323, y: 408}
   - name: adventurer_36
     originalName: 
     pivot: {x: 0.28571433, y: -0.29166666}
@@ -798,8 +798,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 210
-      y: 350
+      x: 411
+      y: 408
       width: 14
       height: 24
     spriteID: 06448a2be63bb46f5a11d479a5a212dc
@@ -810,7 +810,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 210, y: 350}
+    uvTransform: {x: 411, y: 408}
   - name: adventurer_37
     originalName: 
     pivot: {x: 0.2666667, y: -0.29166666}
@@ -818,8 +818,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 187
-      y: 350
+      x: 346
+      y: 408
       width: 15
       height: 24
     spriteID: b7d0be0fcab474b4e9fe0106664d11de
@@ -830,17 +830,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 187, y: 350}
+    uvTransform: {x: 346, y: 408}
   - name: adventurer_38
     originalName: 
-    pivot: {x: 0.57894737, y: -0.037037037}
+    pivot: {x: 0.65217394, y: -0.037037037}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 295
-      width: 19
+      x: 35
+      y: 125
+      width: 23
       height: 27
     spriteID: e79e607eb2a0c4ca8b74ea23af44ef08
     spriteBone: []
@@ -850,17 +850,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 295}
+    uvTransform: {x: 35, y: 125}
   - name: adventurer_39
     originalName: 
-    pivot: {x: 0.5294118, y: -0.037037037}
+    pivot: {x: 0.65217394, y: -0.037037037}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 198
-      y: 213
-      width: 17
+      x: 66
+      y: 125
+      width: 23
       height: 27
     spriteID: bb8638b6a799a4319bde400bad43b0b7
     spriteBone: []
@@ -870,17 +870,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 198, y: 213}
+    uvTransform: {x: 66, y: 125}
   - name: adventurer_40
     originalName: 
-    pivot: {x: 0.52631575, y: -0.035714287}
+    pivot: {x: 0.64, y: -0.035714287}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 146
-      width: 19
+      x: 291
+      y: 86
+      width: 25
       height: 28
     spriteID: 9ac337c18be194a1bbd0a53858967ed5
     spriteBone: []
@@ -890,17 +890,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 146}
+    uvTransform: {x: 291, y: 86}
   - name: adventurer_41
     originalName: 
-    pivot: {x: 0.5714286, y: -0.035714287}
+    pivot: {x: 0.64, y: -0.035714287}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 114
-      width: 21
+      x: 324
+      y: 86
+      width: 25
       height: 28
     spriteID: b340258b2346146609b4800abf181c69
     spriteBone: []
@@ -910,17 +910,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 114}
+    uvTransform: {x: 324, y: 86}
   - name: adventurer_42
     originalName: 
-    pivot: {x: 0.52631575, y: -0.045454547}
+    pivot: {x: 0.6666667, y: -0.045454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 118
-      y: 286
-      width: 19
+      x: 205
+      y: 125
+      width: 27
       height: 22
     spriteID: 6914898f1659e4162822bf1e9a1f3fed
     spriteBone: []
@@ -930,17 +930,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 118, y: 286}
+    uvTransform: {x: 205, y: 125}
   - name: adventurer_43
     originalName: 
-    pivot: {x: 0.5555555, y: -0.05}
+    pivot: {x: 0.68, y: -0.05}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 262
-      y: 286
-      width: 18
+      x: 169
+      y: 238
+      width: 25
       height: 20
     spriteID: eb6298023a6e1415b9bef4329d89faf4
     spriteBone: []
@@ -950,7 +950,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 262, y: 286}
+    uvTransform: {x: 169, y: 238}
   - name: adventurer_44
     originalName: 
     pivot: {x: 0.29411763, y: -0.027777778}
@@ -978,7 +978,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 406
+      x: 407
       y: 4
       width: 27
       height: 36
@@ -990,7 +990,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 406, y: 4}
+    uvTransform: {x: 407, y: 4}
   - name: adventurer_46
     originalName: 
     pivot: {x: 0.52631575, y: -0.03125}
@@ -999,7 +999,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 408
+      y: 198
       width: 19
       height: 32
     spriteID: 9385859e57965401faa56dec433dc688
@@ -1010,7 +1010,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 408}
+    uvTransform: {x: 4, y: 198}
   - name: adventurer_47
     originalName: 
     pivot: {x: 0.5555555, y: -0.038461536}
@@ -1018,8 +1018,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 293
-      y: 179
+      x: 48
+      y: 280
       width: 18
       height: 26
     spriteID: cecc9173515ce4ffc8a3c2d25478d519
@@ -1030,7 +1030,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 293, y: 179}
+    uvTransform: {x: 48, y: 280}
   - name: adventurer_48
     originalName: 
     pivot: {x: 0.5555555, y: -0.037037037}
@@ -1038,8 +1038,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 122
-      y: 213
+      x: 291
+      y: 238
       width: 18
       height: 27
     spriteID: c562de100415845f7b2b8d99a7a0ae15
@@ -1050,7 +1050,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 122, y: 213}
+    uvTransform: {x: 291, y: 238}
   - name: adventurer_49
     originalName: 
     pivot: {x: 0.6, y: -0.037037037}
@@ -1058,8 +1058,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 438
+      x: 242
+      y: 161
       width: 20
       height: 27
     spriteID: 023874b7749ef41a68924da957b49bd2
@@ -1070,7 +1070,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 438}
+    uvTransform: {x: 242, y: 161}
   - name: adventurer_50
     originalName: 
     pivot: {x: 0.40540543, y: -0.03448276}
@@ -1078,7 +1078,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 265
+      x: 266
       y: 4
       width: 37
       height: 29
@@ -1090,17 +1090,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 265, y: 4}
+    uvTransform: {x: 266, y: 4}
   - name: adventurer_51
     originalName: 
-    pivot: {x: 0.7096774, y: -0.04761905}
+    pivot: {x: 0.71875, y: -0.04761905}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 349
-      y: 77
-      width: 31
+      x: 213
+      y: 48
+      width: 32
       height: 21
     spriteID: fc607b5fbd85a4698a6d32b27759cb82
     spriteBone: []
@@ -1110,17 +1110,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 349, y: 77}
+    uvTransform: {x: 213, y: 48}
   - name: adventurer_52
     originalName: 
-    pivot: {x: 0.7333333, y: -0.045454547}
+    pivot: {x: 0.7419355, y: -0.045454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 273
-      y: 77
-      width: 30
+      x: 90
+      y: 48
+      width: 31
       height: 22
     spriteID: a0a042934c8714baba577f642c06c68a
     spriteBone: []
@@ -1130,17 +1130,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 273, y: 77}
+    uvTransform: {x: 90, y: 48}
   - name: adventurer_53
     originalName: 
-    pivot: {x: 0.26315787, y: -0.038461536}
+    pivot: {x: 0.3, y: -0.038461536}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 124
-      y: 179
-      width: 19
+      x: 199
+      y: 198
+      width: 20
       height: 26
     spriteID: ffb2179cc6aed43c69fb63dca3e5c4c3
     spriteBone: []
@@ -1150,17 +1150,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 124, y: 179}
+    uvTransform: {x: 199, y: 198}
   - name: adventurer_54
     originalName: 
-    pivot: {x: 0.21052635, y: -0.038461536}
+    pivot: {x: 0.24999999, y: -0.038461536}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 151
-      y: 179
-      width: 19
+      x: 227
+      y: 198
+      width: 20
       height: 26
     spriteID: 703796ab03c08487eac5f0dfd324aae8
     spriteBone: []
@@ -1170,17 +1170,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 151, y: 179}
+    uvTransform: {x: 227, y: 198}
   - name: adventurer_55
     originalName: 
-    pivot: {x: 0.4680851, y: -0.04347826}
+    pivot: {x: 0.47916666, y: -0.04347826}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 210
       y: 4
-      width: 47
+      width: 48
       height: 23
     spriteID: 85e563603d9ac4bbc87155fc0093a897
     spriteBone: []
@@ -1193,14 +1193,14 @@ ScriptedImporter:
     uvTransform: {x: 210, y: 4}
   - name: adventurer_56
     originalName: 
-    pivot: {x: 0.7, y: -0.05263158}
+    pivot: {x: 0.6875, y: -0.05263158}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 135
-      y: 114
-      width: 30
+      x: 97
+      y: 125
+      width: 32
       height: 19
     spriteID: a7be018e26c384371896ecced787225b
     spriteBone: []
@@ -1210,7 +1210,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 135, y: 114}
+    uvTransform: {x: 97, y: 125}
   - name: adventurer_57
     originalName: 
     pivot: {x: 0.7352941, y: -0.05}
@@ -1218,8 +1218,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 157
-      y: 77
+      x: 129
+      y: 48
       width: 34
       height: 20
     spriteID: cf9dfbc77e2c344ec8abd6af9d4dcab7
@@ -1230,17 +1230,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 157, y: 77}
+    uvTransform: {x: 129, y: 48}
   - name: adventurer_58
     originalName: 
-    pivot: {x: 0.5714286, y: -0.05}
+    pivot: {x: 0.7352941, y: -0.05}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 427
-      y: 249
-      width: 21
+      x: 171
+      y: 48
+      width: 34
       height: 20
     spriteID: 65d9225dc01fd43e1be25c9c0e9faa5c
     spriteBone: []
@@ -1250,17 +1250,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 427, y: 249}
+    uvTransform: {x: 171, y: 48}
   - name: adventurer_59
     originalName: 
-    pivot: {x: 0.5294118, y: -0.041666668}
+    pivot: {x: 0.42857143, y: -0.041666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 142
-      y: 316
-      width: 17
+      x: 57
+      y: 238
+      width: 21
       height: 24
     spriteID: 1be789b7af38349adafdeaa6e544d225
     spriteBone: []
@@ -1270,17 +1270,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 142, y: 316}
+    uvTransform: {x: 57, y: 238}
   - name: adventurer_60
     originalName: 
-    pivot: {x: 0.44444442, y: -0.041666668}
+    pivot: {x: 0.4210526, y: -0.041666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 490
-      y: 213
-      width: 18
+      x: 230
+      y: 280
+      width: 19
       height: 24
     spriteID: d0b98b73834be48c5bd8d63b9190bcf8
     spriteBone: []
@@ -1290,7 +1290,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 490, y: 213}
+    uvTransform: {x: 230, y: 280}
   - name: adventurer_61
     originalName: 
     pivot: {x: 0.52631575, y: -0.041666668}
@@ -1298,8 +1298,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 484
+      x: 257
+      y: 280
       width: 19
       height: 24
     spriteID: e998d7025dca947fb832b09ffee88909
@@ -1310,17 +1310,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 484}
+    uvTransform: {x: 257, y: 280}
   - name: adventurer_62
     originalName: 
-    pivot: {x: 0.5294118, y: -0.041666668}
+    pivot: {x: 0.42857143, y: -0.041666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 167
-      y: 316
-      width: 17
+      x: 86
+      y: 238
+      width: 21
       height: 24
     spriteID: ce6792bff42934534b6c6405c5e1fbb5
     spriteBone: []
@@ -1330,17 +1330,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 167, y: 316}
+    uvTransform: {x: 86, y: 238}
   - name: adventurer_63
     originalName: 
-    pivot: {x: 0.44444442, y: -0.041666668}
+    pivot: {x: 0.4210526, y: -0.041666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 272
-      y: 249
-      width: 18
+      x: 284
+      y: 280
+      width: 19
       height: 24
     spriteID: 014a0298457b146d5a57d4bbade17a16
     spriteBone: []
@@ -1350,7 +1350,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 272, y: 249}
+    uvTransform: {x: 284, y: 280}
   - name: adventurer_64
     originalName: 
     pivot: {x: 0.52631575, y: -0.041666668}
@@ -1358,8 +1358,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 223
-      y: 213
+      x: 311
+      y: 280
       width: 19
       height: 24
     spriteID: c5adcb1656059490eab283f220ec32fd
@@ -1370,17 +1370,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 223, y: 213}
+    uvTransform: {x: 311, y: 280}
   - name: adventurer_65
     originalName: 
-    pivot: {x: 0.42857143, y: -0.045454547}
+    pivot: {x: 0.40909094, y: -0.045454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 423
-      y: 179
-      width: 21
+      x: 317
+      y: 238
+      width: 22
       height: 22
     spriteID: d7318009cb3d245d88438b68c632d364
     spriteBone: []
@@ -1390,17 +1390,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 423, y: 179}
+    uvTransform: {x: 317, y: 238}
   - name: adventurer_66
     originalName: 
-    pivot: {x: 0.41176465, y: -0.055555556}
+    pivot: {x: 0.38888884, y: -0.055555556}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 410
-      y: 286
-      width: 17
+      x: 465
+      y: 408
+      width: 18
       height: 18
     spriteID: 5b8bfdc7b74b74c8ca011ff6c3f2c49e
     spriteBone: []
@@ -1410,17 +1410,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 410, y: 286}
+    uvTransform: {x: 465, y: 408}
   - name: adventurer_67
     originalName: 
-    pivot: {x: 0.28571433, y: -0.05882353}
+    pivot: {x: 0.2666667, y: -0.05882353}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 487
-      width: 14
+      x: 180
+      y: 377
+      width: 15
       height: 17
     spriteID: fda09ec5f2fdc4155bf9c4ad0394c81e
     spriteBone: []
@@ -1430,17 +1430,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 487}
+    uvTransform: {x: 180, y: 377}
   - name: adventurer_68
     originalName: 
-    pivot: {x: 0.41176465, y: -0.055555556}
+    pivot: {x: 0.38888884, y: -0.055555556}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 435
-      y: 286
-      width: 17
+      x: 31
+      y: 377
+      width: 18
       height: 18
     spriteID: 0c9a6e7253ba04e858403ad8a23aab9f
     spriteBone: []
@@ -1450,7 +1450,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 435, y: 286}
+    uvTransform: {x: 31, y: 377}
   - name: adventurer_69
     originalName: 
     pivot: {x: 0.5555555, y: -0.040000003}
@@ -1458,8 +1458,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 304
-      y: 213
+      x: 392
+      y: 280
       width: 18
       height: 25
     spriteID: 9809bd94675aa41aca6cbca6d26c6b0e
@@ -1470,7 +1470,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 304, y: 213}
+    uvTransform: {x: 392, y: 280}
   - name: adventurer_70
     originalName: 
     pivot: {x: 0.5555555, y: -0.038461536}
@@ -1478,8 +1478,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 319
-      y: 179
+      x: 74
+      y: 280
       width: 18
       height: 26
     spriteID: 0c5079eb72cc64292ad3a2d5ebbe9293
@@ -1490,18 +1490,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 319, y: 179}
+    uvTransform: {x: 74, y: 280}
   - name: adventurer_71
     originalName: 
-    pivot: {x: 0.58823526, y: -0.035714287}
+    pivot: {x: 0.631579, y: -0.03448276}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 148
-      y: 213
-      width: 17
-      height: 28
+      x: 89
+      y: 161
+      width: 19
+      height: 29
     spriteID: 4a744f871980d454f914701c2769ff43
     spriteBone: []
     spriteOutline: []
@@ -1510,18 +1510,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 148, y: 213}
+    uvTransform: {x: 89, y: 161}
   - name: adventurer_72
     originalName: 
-    pivot: {x: 0.6111111, y: -0.038461536}
+    pivot: {x: 0.7083333, y: -0.03448276}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 345
-      y: 179
-      width: 18
-      height: 26
+      x: 357
+      y: 86
+      width: 24
+      height: 29
     spriteID: 7a7767950ec7d4286a4de96c02551295
     spriteBone: []
     spriteOutline: []
@@ -1530,18 +1530,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 345, y: 179}
+    uvTransform: {x: 357, y: 86}
   - name: adventurer_73
     originalName: 
-    pivot: {x: 0.6111111, y: -0.038461536}
+    pivot: {x: 0.7083333, y: -0.03448276}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 371
-      y: 179
-      width: 18
-      height: 26
+      x: 389
+      y: 86
+      width: 24
+      height: 29
     spriteID: 511afbc5d7d7d42e0a1c951cd2b5075b
     spriteBone: []
     spriteOutline: []
@@ -1550,18 +1550,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 371, y: 179}
+    uvTransform: {x: 389, y: 86}
   - name: adventurer_74
     originalName: 
-    pivot: {x: 0.6111111, y: -0.035714287}
+    pivot: {x: 0.631579, y: -0.03448276}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 448
-      width: 18
-      height: 28
+      x: 116
+      y: 161
+      width: 19
+      height: 29
     spriteID: e71323b8136c94ead87da1c2e3e750d5
     spriteBone: []
     spriteOutline: []
@@ -1570,7 +1570,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 448}
+    uvTransform: {x: 116, y: 161}
   - name: adventurer_75
     originalName: 
     pivot: {x: 0.6, y: -0.038461536}
@@ -1578,8 +1578,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 179
+      x: 255
+      y: 198
       width: 20
       height: 26
     spriteID: 5dc3eec5ac5de4226bdd81c982ff49cd
@@ -1590,7 +1590,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 179}
+    uvTransform: {x: 255, y: 198}
   - name: adventurer_76
     originalName: 
     pivot: {x: 0.5294118, y: -0.040000003}
@@ -1598,8 +1598,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 402
-      y: 249
+      x: 131
+      y: 408
       width: 17
       height: 25
     spriteID: f91a5f8c1c6e940dba0217312ff754a3
@@ -1610,7 +1610,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 402, y: 249}
+    uvTransform: {x: 131, y: 408}
   - name: adventurer_77
     originalName: 
     pivot: {x: 0.34782606, y: -0.03448276}
@@ -1618,8 +1618,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 272
+      x: 289
+      y: 48
       width: 23
       height: 29
     spriteID: 77cc63e83122f47ba9a3f19c61054271
@@ -1630,7 +1630,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 272}
+    uvTransform: {x: 289, y: 48}
   - name: adventurer_78
     originalName: 
     pivot: {x: 0.31818178, y: -0.03448276}
@@ -1639,7 +1639,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 309
+      y: 161
       width: 22
       height: 29
     spriteID: e0d584a79273d4bd899104d0e1ff47df
@@ -1650,7 +1650,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 309}
+    uvTransform: {x: 4, y: 161}
   - name: adventurer_79
     originalName: 
     pivot: {x: 0.5294118, y: -0.09677419}
@@ -1658,8 +1658,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 221
+      x: 108
+      y: 198
       width: 17
       height: 31
     spriteID: 896113cc026194d779e31d5d1bde291a
@@ -1670,7 +1670,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 221}
+    uvTransform: {x: 108, y: 198}
   - name: adventurer_80
     originalName: 
     pivot: {x: 0.5294118, y: -0.09374999}
@@ -1678,8 +1678,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 363
+      x: 58
+      y: 198
       width: 17
       height: 32
     spriteID: 441c4363ed61d43cdb2c6b229d9b6ad6
@@ -1690,7 +1690,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 363}
+    uvTransform: {x: 58, y: 198}
   - name: adventurer_81
     originalName: 
     pivot: {x: 0.46153846, y: -0.099999994}
@@ -1698,8 +1698,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 411
+      x: 495
+      y: 86
       width: 13
       height: 30
     spriteID: f81d919a89d5b47c0919b4b7ff971a7f
@@ -1710,7 +1710,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 411}
+    uvTransform: {x: 495, y: 86}
   - name: adventurer_82
     originalName: 
     pivot: {x: 0.46153846, y: -0.18518518}
@@ -1718,8 +1718,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 118
-      y: 383
+      x: 369
+      y: 408
       width: 13
       height: 27
     spriteID: c1d2693c37cd34e52a045da98d823c49
@@ -1730,7 +1730,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 118, y: 383}
+    uvTransform: {x: 369, y: 408}
   - name: adventurer_83
     originalName: 
     pivot: {x: 0.46153846, y: -0.099999994}
@@ -1738,8 +1738,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 449
+      x: 4
+      y: 445
       width: 13
       height: 30
     spriteID: 353d311ea5c154257b1ab36203036bed
@@ -1750,7 +1750,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 449}
+    uvTransform: {x: 4, y: 445}
   - name: adventurer_85
     originalName: 
     pivot: {x: 0.47619045, y: -0.038461536}
@@ -1758,8 +1758,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 261
+      x: 433
+      y: 125
       width: 21
       height: 26
     spriteID: 08356430778ac40d397fc02980a14a70
@@ -1770,7 +1770,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 261}
+    uvTransform: {x: 433, y: 125}
   - name: adventurer_86
     originalName: 
     pivot: {x: 0.5555555, y: -0.040000003}
@@ -1778,8 +1778,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 330
-      y: 213
+      x: 418
+      y: 280
       width: 18
       height: 25
     spriteID: d16c813ed71f34c53a5d712af9a2a975
@@ -1790,17 +1790,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 330, y: 213}
+    uvTransform: {x: 418, y: 280}
   - name: adventurer_87
     originalName: 
-    pivot: {x: 0.5, y: -0.040000003}
+    pivot: {x: 0.5294118, y: -0.040000003}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 242
-      y: 316
-      width: 16
+      x: 156
+      y: 408
+      width: 17
       height: 25
     spriteID: eef906983a140432c915b384a699f829
     spriteBone: []
@@ -1810,7 +1810,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 242, y: 316}
+    uvTransform: {x: 156, y: 408}
   - name: adventurer_88
     originalName: 
     pivot: {x: 0.37037033, y: -0.041666668}
@@ -1818,8 +1818,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 422
-      y: 77
+      x: 392
+      y: 48
       width: 27
       height: 24
     spriteID: 0fae778fd8ccb4d6e8c412392e233a5b
@@ -1830,18 +1830,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 422, y: 77}
+    uvTransform: {x: 392, y: 48}
   - name: adventurer_89
     originalName: 
-    pivot: {x: 0.37037033, y: -0.04347826}
+    pivot: {x: 0.37037033, y: -0.041666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 346
+      x: 427
+      y: 48
       width: 27
-      height: 23
+      height: 24
     spriteID: ce3d3d69e4cb0436ebd46c8dac46178e
     spriteBone: []
     spriteOutline: []
@@ -1850,18 +1850,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 346}
+    uvTransform: {x: 427, y: 48}
   - name: adventurer_90
     originalName: 
-    pivot: {x: 0.41379312, y: -0.04347826}
+    pivot: {x: 0.41379312, y: -0.041666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 199
-      y: 77
+      x: 421
+      y: 86
       width: 29
-      height: 23
+      height: 24
     spriteID: 44a80e8274c544b9fb9b9085ec0f9c92
     spriteBone: []
     spriteOutline: []
@@ -1870,18 +1870,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 199, y: 77}
+    uvTransform: {x: 421, y: 86}
   - name: adventurer_91
     originalName: 
-    pivot: {x: 0.37037033, y: -0.04347826}
+    pivot: {x: 0.37037033, y: -0.041666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 377
+      x: 462
+      y: 48
       width: 27
-      height: 23
+      height: 24
     spriteID: 97fb7bddbf8f942c4af2b974891241f4
     spriteBone: []
     spriteOutline: []
@@ -1890,18 +1890,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 377}
+    uvTransform: {x: 462, y: 48}
   - name: adventurer_92
     originalName: 
-    pivot: {x: 0.41379312, y: -0.04347826}
+    pivot: {x: 0.41379312, y: -0.041666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 236
-      y: 77
+      x: 458
+      y: 86
       width: 29
-      height: 23
+      height: 24
     spriteID: 11961ac4dbb834c59af9c2fa1212ada6
     spriteBone: []
     spriteOutline: []
@@ -1910,7 +1910,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 236, y: 77}
+    uvTransform: {x: 458, y: 86}
   - name: adventurer_93
     originalName: 
     pivot: {x: 0.44444442, y: -0.041666668}
@@ -1918,8 +1918,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 298
-      y: 249
+      x: 27
+      y: 408
       width: 18
       height: 24
     spriteID: 6aedecd991af1437d9c1f72786047574
@@ -1930,7 +1930,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 298, y: 249}
+    uvTransform: {x: 27, y: 408}
   - name: adventurer_94
     originalName: 
     pivot: {x: 0.42857143, y: -0.040000003}
@@ -1938,8 +1938,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 146
+      x: 421
+      y: 161
       width: 21
       height: 25
     spriteID: d359b9f31d8b048f8ac8f6fd8765dcd4
@@ -1950,7 +1950,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 146}
+    uvTransform: {x: 421, y: 161}
   - name: adventurer_95
     originalName: 
     pivot: {x: 0.52631575, y: -0.038461536}
@@ -1958,8 +1958,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 178
-      y: 179
+      x: 230
+      y: 238
       width: 19
       height: 26
     spriteID: 3e1e08730612a43698defa3aa5ac320b
@@ -1970,7 +1970,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 178, y: 179}
+    uvTransform: {x: 230, y: 238}
   - name: adventurer_96
     originalName: 
     pivot: {x: 0.5555555, y: -0.07692307}
@@ -1978,8 +1978,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 397
-      y: 179
+      x: 100
+      y: 280
       width: 18
       height: 26
     spriteID: 62fed82f772c842f5b0a36875bef1aa9
@@ -1990,7 +1990,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 397, y: 179}
+    uvTransform: {x: 100, y: 280}
   - name: adventurer_97
     originalName: 
     pivot: {x: 0.5, y: -0.099999994}
@@ -2013,15 +2013,15 @@ ScriptedImporter:
     uvTransform: {x: 60, y: 4}
   - name: adventurer_98
     originalName: 
-    pivot: {x: 0.6551724, y: -0.13793103}
+    pivot: {x: 0.6551724, y: -0.13333334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 77
+      x: 4
+      y: 48
       width: 29
-      height: 29
+      height: 30
     spriteID: 425125a23cefe4f59957d941d427881c
     spriteBone: []
     spriteOutline: []
@@ -2030,18 +2030,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 77}
+    uvTransform: {x: 4, y: 48}
   - name: adventurer_99
     originalName: 
-    pivot: {x: 0.58823526, y: -0.16666667}
+    pivot: {x: 0.7407407, y: -0.12903227}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 192
-      y: 316
-      width: 17
-      height: 24
+      x: 40
+      y: 86
+      width: 27
+      height: 31
     spriteID: 3d17fff2f437a407686692be4115d606
     spriteBone: []
     spriteOutline: []
@@ -2050,7 +2050,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 192, y: 316}
+    uvTransform: {x: 40, y: 86}
   - name: adventurer_100
     originalName: 
     pivot: {x: 0.29411763, y: -0.064516135}
@@ -2058,7 +2058,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 310
+      x: 311
       y: 4
       width: 34
       height: 31
@@ -2070,7 +2070,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 310, y: 4}
+    uvTransform: {x: 311, y: 4}
   - name: adventurer_101
     originalName: 
     pivot: {x: 0.39130434, y: -0.09677419}
@@ -2078,8 +2078,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 201
+      x: 484
+      y: 4
       width: 23
       height: 31
     spriteID: de637dd026af74414bdf39bbbd803c1e
@@ -2090,7 +2090,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 201}
+    uvTransform: {x: 484, y: 4}
   - name: adventurer_102
     originalName: 
     pivot: {x: 0.62499994, y: -0.15384614}
@@ -2098,8 +2098,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 118
-      y: 316
+      x: 181
+      y: 408
       width: 16
       height: 26
     spriteID: f91825417ee2643988071d2b0d7d0352
@@ -2110,7 +2110,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 118, y: 316}
+    uvTransform: {x: 181, y: 408}
   - name: adventurer_103
     originalName: 
     pivot: {x: 0.60714287, y: -0.16129032}
@@ -2119,7 +2119,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 48
+      y: 86
       width: 28
       height: 31
     spriteID: 54ce2ec9b3e4940cfaaf09c984f45842
@@ -2130,7 +2130,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 48}
+    uvTransform: {x: 4, y: 86}
   - name: adventurer_104
     originalName: 
     pivot: {x: 0.6296296, y: -0.13333334}
@@ -2138,8 +2138,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 126
+      x: 110
+      y: 86
       width: 27
       height: 30
     spriteID: 664067e9bed26472592db4ae3353a1fb
@@ -2150,7 +2150,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 126}
+    uvTransform: {x: 110, y: 86}
   - name: adventurer_105
     originalName: 
     pivot: {x: 0.6296296, y: -0.12903227}
@@ -2158,8 +2158,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 87
+      x: 75
+      y: 86
       width: 27
       height: 31
     spriteID: c1a16a997881f46ffbe5d49549280703
@@ -2170,7 +2170,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 87}
+    uvTransform: {x: 75, y: 86}
   - name: adventurer_106
     originalName: 
     pivot: {x: 0.49999997, y: -0.027777778}
@@ -2218,7 +2218,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 352
+      x: 353
       y: 4
       width: 46
       height: 22
@@ -2230,7 +2230,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 352, y: 4}
+    uvTransform: {x: 353, y: 4}
   - name: adventurer_109
     originalName: 
     pivot: {x: 0.5555555, y: -0.040000003}
@@ -2238,8 +2238,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 356
-      y: 213
+      x: 444
+      y: 280
       width: 18
       height: 25
     spriteID: 79685c57533804e20bd5c4b70d39d1eb
@@ -2250,7 +2250,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 356, y: 213}
+    uvTransform: {x: 444, y: 280}
   - name: adventurer_110
     originalName: 
     pivot: {x: 0.5714286, y: -0.040000003}
@@ -2258,8 +2258,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 125
-      y: 146
+      x: 450
+      y: 161
       width: 21
       height: 25
     spriteID: 2238ece6860ab4d4f9bda3b6d7b37e1e
@@ -2270,7 +2270,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 125, y: 146}
+    uvTransform: {x: 450, y: 161}
   - name: adventurer_111
     originalName: 
     pivot: {x: 0.36666664, y: -0.045454547}
@@ -2278,8 +2278,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 311
-      y: 77
+      x: 320
+      y: 48
       width: 30
       height: 22
     spriteID: 505d3e6eb47574eb58278a3475baa6fd
@@ -2290,7 +2290,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 311, y: 77}
+    uvTransform: {x: 320, y: 48}
   - name: adventurer_112
     originalName: 
     pivot: {x: 0.45000002, y: -0.04347826}
@@ -2298,8 +2298,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 452
-      y: 179
+      x: 174
+      y: 280
       width: 20
       height: 23
     spriteID: 2bcccdcad7aa8430fbaf2ffa4398dcd9
@@ -2310,7 +2310,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 452, y: 179}
+    uvTransform: {x: 174, y: 280}
   - name: adventurer_113
     originalName: 
     pivot: {x: 0.5555555, y: -0.041666668}
@@ -2318,8 +2318,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 324
-      y: 249
+      x: 53
+      y: 408
       width: 18
       height: 24
     spriteID: 8ef2f6413de5b43eda7052761753d2d7
@@ -2330,7 +2330,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 324, y: 249}
+    uvTransform: {x: 53, y: 408}
   - name: adventurer_114
     originalName: 
     pivot: {x: 0.5555555, y: -0.041666668}
@@ -2338,8 +2338,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 350
-      y: 249
+      x: 79
+      y: 408
       width: 18
       height: 24
     spriteID: 30fe4102da0bf4489a6c05c1cfd22513
@@ -2350,7 +2350,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 350, y: 249}
+    uvTransform: {x: 79, y: 408}
   - name: adventurer_115
     originalName: 
     pivot: {x: 0.4117647, y: -0.045454547}
@@ -2358,8 +2358,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 77
-      y: 77
+      x: 178
+      y: 86
       width: 34
       height: 22
     spriteID: c2edc039a6abb47a3af91d536cbc4c7b
@@ -2370,7 +2370,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 77, y: 77}
+    uvTransform: {x: 178, y: 86}
   - name: adventurer_116
     originalName: 
     pivot: {x: 0.34615386, y: -0.04347826}
@@ -2378,8 +2378,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 448
+      x: 137
+      y: 125
       width: 26
       height: 23
     spriteID: bc3c3aa39018b47e382d946431cdf1c0
@@ -2390,7 +2390,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 448}
+    uvTransform: {x: 137, y: 125}
   - name: adventurer_117
     originalName: 
     pivot: {x: 0.4545454, y: -0.04347826}
@@ -2398,8 +2398,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 292
-      y: 146
+      x: 482
+      y: 198
       width: 22
       height: 23
     spriteID: 16c3278bf1c504ec3a0e9404cf539852
@@ -2410,7 +2410,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 292, y: 146}
+    uvTransform: {x: 482, y: 198}
   - name: adventurer_118
     originalName: 
     pivot: {x: 0.52631575, y: -0.04761905}
@@ -2418,8 +2418,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 320
-      y: 316
+      x: 347
+      y: 347
       width: 19
       height: 21
     spriteID: 924858eed4b9f46a78fca7d9aff11005
@@ -2430,7 +2430,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 320, y: 316}
+    uvTransform: {x: 347, y: 347}
   - name: adventurer_119
     originalName: 
     pivot: {x: 0.32142857, y: -0.041666668}
@@ -2438,8 +2438,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 240
+      x: 253
+      y: 48
       width: 28
       height: 24
     spriteID: 6b53158a2912d4899bc0c23fa3990950
@@ -2450,7 +2450,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 240}
+    uvTransform: {x: 253, y: 48}
   - name: adventurer_120
     originalName: 
     pivot: {x: 0.45000002, y: -0.041666668}
@@ -2458,8 +2458,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 233
-      y: 179
+      x: 433
+      y: 238
       width: 20
       height: 24
     spriteID: c7c4573c954694cacac45f468b9cd0d6
@@ -2470,7 +2470,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 233, y: 179}
+    uvTransform: {x: 433, y: 238}
   - name: adventurer_121
     originalName: 
     pivot: {x: 0.47368422, y: -0.041666668}
@@ -2478,8 +2478,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 250
-      y: 213
+      x: 338
+      y: 280
       width: 19
       height: 24
     spriteID: 59231fd5d358541fbb6c69e7fea1f78c
@@ -2490,7 +2490,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 250, y: 213}
+    uvTransform: {x: 338, y: 280}
   - name: adventurer_122
     originalName: 
     pivot: {x: 0.5714286, y: -0.040000003}
@@ -2498,8 +2498,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 154
-      y: 146
+      x: 479
+      y: 161
       width: 21
       height: 25
     spriteID: 175c0cd59ba8347b393784eed6802cf5
@@ -2510,7 +2510,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 154, y: 146}
+    uvTransform: {x: 479, y: 161}
   - name: adventurer_123
     originalName: 
     pivot: {x: 0.39999998, y: -0.045454547}
@@ -2518,8 +2518,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 173
-      y: 114
+      x: 334
+      y: 125
       width: 25
       height: 22
     spriteID: a6329f353363b46a0b00379a6ece8c93
@@ -2530,7 +2530,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 173, y: 114}
+    uvTransform: {x: 334, y: 125}
   - name: adventurer_124
     originalName: 
     pivot: {x: 0.39999998, y: -0.045454547}
@@ -2538,8 +2538,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 206
-      y: 114
+      x: 367
+      y: 125
       width: 25
       height: 22
     spriteID: bbb764ebbd3994ebb9be2b02fee0598e
@@ -2550,7 +2550,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 206, y: 114}
+    uvTransform: {x: 367, y: 125}
   - name: adventurer_125
     originalName: 
     pivot: {x: 0.51219517, y: -0.04761905}
@@ -2558,7 +2558,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
+      x: 41
       y: 48
       width: 41
       height: 21
@@ -2570,7 +2570,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 48}
+    uvTransform: {x: 41, y: 48}
   - name: adventurer_126
     originalName: 
     pivot: {x: 0.3333333, y: -0.05}
@@ -2578,8 +2578,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 261
-      y: 179
+      x: 461
+      y: 238
       width: 24
       height: 20
     spriteID: 6bee9e0b1717f4bdb82fbd6f2df409b9
@@ -2590,7 +2590,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 261, y: 179}
+    uvTransform: {x: 461, y: 238}
   - name: adventurer_127
     originalName: 
     pivot: {x: 0.43749994, y: -0.041666668}
@@ -2598,8 +2598,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 486
-      y: 316
+      x: 253
+      y: 408
       width: 16
       height: 24
     spriteID: 0ba65901a699d4866845662e185162af
@@ -2610,7 +2610,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 486, y: 316}
+    uvTransform: {x: 253, y: 408}
   - name: adventurer_128
     originalName: 
     pivot: {x: 0.4, y: -0.040000003}
@@ -2618,8 +2618,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 118
-      y: 350
+      x: 277
+      y: 408
       width: 15
       height: 25
     spriteID: 1e9f3c82b4d9c4334847a2ac1e9e823a
@@ -2630,7 +2630,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 118, y: 350}
+    uvTransform: {x: 277, y: 408}
   - name: adventurer_129
     originalName: 
     pivot: {x: 0.52631575, y: -0.041666668}
@@ -2638,8 +2638,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 277
-      y: 213
+      x: 365
+      y: 280
       width: 19
       height: 24
     spriteID: 4d675268373ab4ab9864d7e61e0ae07f
@@ -2650,7 +2650,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 277, y: 213}
+    uvTransform: {x: 365, y: 280}
   - name: adventurer_130
     originalName: 
     pivot: {x: 0.41176465, y: -0.041666668}
@@ -2658,8 +2658,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 217
-      y: 316
+      x: 205
+      y: 408
       width: 17
       height: 24
     spriteID: 4513e9c04e3c74d509562dc6a01ed430
@@ -2670,7 +2670,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 217, y: 316}
+    uvTransform: {x: 205, y: 408}
   - name: adventurer_131
     originalName: 
     pivot: {x: 0.36666664, y: -0.041666668}
@@ -2678,8 +2678,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 119
-      y: 77
+      x: 253
+      y: 86
       width: 30
       height: 24
     spriteID: 44af130fef1974386959d13712899788
@@ -2690,7 +2690,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 119, y: 77}
+    uvTransform: {x: 253, y: 86}
   - name: adventurer_132
     originalName: 
     pivot: {x: 0.18181822, y: -0.041666668}
@@ -2698,8 +2698,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 345
-      y: 114
+      x: 329
+      y: 161
       width: 22
       height: 24
     spriteID: e99730db19e4e4cfdadd9d220738a193
@@ -2710,7 +2710,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 345, y: 114}
+    uvTransform: {x: 329, y: 161}
   - name: adventurer_133
     originalName: 
     pivot: {x: 0.58333325, y: -0.041666668}
@@ -2718,8 +2718,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 267
-      y: 350
+      x: 25
+      y: 445
       width: 12
       height: 24
     spriteID: 5a474806b8f774f17817c18c8467aa08
@@ -2730,7 +2730,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 267, y: 350}
+    uvTransform: {x: 25, y: 445}
   - name: adventurer_134
     originalName: 
     pivot: {x: 0.4117647, y: -0.038461536}
@@ -2738,7 +2738,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 441
+      x: 442
       y: 4
       width: 34
       height: 26
@@ -2750,7 +2750,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 441, y: 4}
+    uvTransform: {x: 442, y: 4}
   - name: adventurer_135
     originalName: 
     pivot: {x: 0.5238095, y: -0.040000003}
@@ -2758,8 +2758,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 183
-      y: 146
+      x: 133
+      y: 198
       width: 21
       height: 25
     spriteID: a0b6d9ebd84c64b008e9aabc1b44eada
@@ -2770,7 +2770,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 183, y: 146}
+    uvTransform: {x: 133, y: 198}
   - name: adventurer_136
     originalName: 
     pivot: {x: 0.6, y: -0.040000003}
@@ -2778,8 +2778,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 141
-      y: 350
+      x: 300
+      y: 408
       width: 15
       height: 25
     spriteID: b4d89a28f04fc4e79997f0c60077b9b6
@@ -2790,7 +2790,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 141, y: 350}
+    uvTransform: {x: 300, y: 408}
   - name: adventurer_137
     originalName: 
     pivot: {x: 0.52631575, y: -0.27272725}
@@ -2798,8 +2798,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 145
-      y: 286
+      x: 227
+      y: 347
       width: 19
       height: 22
     spriteID: 689beffb738ab43aa9099f9b87ccd6fe
@@ -2810,7 +2810,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 145, y: 286}
+    uvTransform: {x: 227, y: 347}
   - name: adventurer_138
     originalName: 
     pivot: {x: 0.4666666, y: -0.35000002}
@@ -2818,8 +2818,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 483
-      y: 286
+      x: 122
+      y: 377
       width: 15
       height: 20
     spriteID: ca56b55ec07864b76898f1bb26eae0e0
@@ -2830,7 +2830,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 483, y: 286}
+    uvTransform: {x: 122, y: 377}
   - name: adventurer_139
     originalName: 
     pivot: {x: 0.56, y: -0.19999999}
@@ -2838,8 +2838,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 483
-      y: 4
+      x: 145
+      y: 86
       width: 25
       height: 30
     spriteID: 1fe78de9b1e67468584c7a282c507ce5
@@ -2850,7 +2850,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 483, y: 4}
+    uvTransform: {x: 145, y: 86}
   - name: adventurer_140
     originalName: 
     pivot: {x: 0.56, y: -0.20689654}
@@ -2858,8 +2858,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 164
+      x: 220
+      y: 86
       width: 25
       height: 29
     spriteID: affefc5ce42c94f878caca7a70906ff6
@@ -2870,7 +2870,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 164}
+    uvTransform: {x: 220, y: 86}
   - name: adventurer_141
     originalName: 
     pivot: {x: 0.5555555, y: -0.041666668}
@@ -2878,8 +2878,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 376
-      y: 249
+      x: 105
+      y: 408
       width: 18
       height: 24
     spriteID: 4b349d278d54d4eb9b0e78f3fb9d2f99
@@ -2890,7 +2890,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 376, y: 249}
+    uvTransform: {x: 105, y: 408}
   - name: adventurer_142
     originalName: 
     pivot: {x: 0.75, y: -0.17391305}
@@ -2898,8 +2898,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 480
-      y: 179
+      x: 202
+      y: 280
       width: 20
       height: 23
     spriteID: 599945dfef00f4c38900e6564f9007ea
@@ -2910,7 +2910,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 480, y: 179}
+    uvTransform: {x: 202, y: 280}
   - name: adventurer_143
     originalName: 
     pivot: {x: 0.72413796, y: -0.16666666}
@@ -2918,8 +2918,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 437
-      y: 114
+      x: 162
+      y: 198
       width: 29
       height: 18
     spriteID: 5bb42dbe813be40d19ec3a3b5d8ad6fd
@@ -2930,7 +2930,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 437, y: 114}
+    uvTransform: {x: 162, y: 198}
   - name: adventurer_144
     originalName: 
     pivot: {x: 0.8333333, y: -0.071428575}
@@ -2938,8 +2938,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 313
-      y: 286
+      x: 433
+      y: 408
       width: 24
       height: 14
     spriteID: 02aa18179a5184e5fa3be412902e3918
@@ -2950,7 +2950,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 313, y: 286}
+    uvTransform: {x: 433, y: 408}
   - name: adventurer_146
     originalName: 
     pivot: {x: 0.8076923, y: -0.083333336}
@@ -2958,8 +2958,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 376
-      y: 286
+      x: 88
+      y: 377
       width: 26
       height: 12
     spriteID: f5a9179e6529147789fe5835e85948b6
@@ -2970,7 +2970,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 376, y: 286}
+    uvTransform: {x: 88, y: 377}
   - name: adventurer_149
     originalName: 
     pivot: {x: 0.9565217, y: -0.071428575}
@@ -2978,8 +2978,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 345
-      y: 286
+      x: 57
+      y: 377
       width: 23
       height: 14
     spriteID: 38842a349f27448bcaac5c16d771abde
@@ -2990,7 +2990,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 345, y: 286}
+    uvTransform: {x: 57, y: 377}
   - name: adventurer_150
     originalName: 
     pivot: {x: 1.047619, y: -0.083333336}
@@ -2998,8 +2998,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 287
-      y: 350
+      x: 203
+      y: 377
       width: 21
       height: 12
     spriteID: 86933c3d90148478eb3917abb7e3114c
@@ -3010,7 +3010,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 287, y: 350}
+    uvTransform: {x: 203, y: 377}
   - name: adventurer_151
     originalName: 
     pivot: {x: 0.8076923, y: -0.0625}
@@ -3018,8 +3018,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 172
-      y: 286
+      x: 254
+      y: 347
       width: 26
       height: 16
     spriteID: 11050781fe0ea4ab085976e96d7baf49
@@ -3030,7 +3030,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 172, y: 286}
+    uvTransform: {x: 254, y: 347}
   - name: adventurer_152
     originalName: 
     pivot: {x: 0.7619047, y: -0.15384614}
@@ -3038,8 +3038,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 295
+      x: 462
+      y: 125
       width: 21
       height: 26
     spriteID: b852677ac3c7f4c09ada403dfde665c1
@@ -3050,7 +3050,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 295}
+    uvTransform: {x: 462, y: 125}
   - name: adventurer_153
     originalName: 
     pivot: {x: 0.6666666, y: -0.041666668}
@@ -3058,8 +3058,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 69
-      y: 114
+      x: 240
+      y: 125
       width: 24
       height: 24
     spriteID: f6ae50f5acde846fbbed3e8db919beaa
@@ -3070,7 +3070,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 69, y: 114}
+    uvTransform: {x: 240, y: 125}
   - name: adventurer_154
     originalName: 
     pivot: {x: 0.6363636, y: -0.04347826}
@@ -3078,8 +3078,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 322
-      y: 146
+      x: 27
+      y: 238
       width: 22
       height: 23
     spriteID: b8b82bea39282408f903f91ced52e341
@@ -3090,7 +3090,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 322, y: 146}
+    uvTransform: {x: 27, y: 238}
   - name: adventurer_155
     originalName: 
     pivot: {x: 0.23529415, y: -0.035714287}
@@ -3098,8 +3098,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 173
-      y: 213
+      x: 491
+      y: 125
       width: 17
       height: 28
     spriteID: 04d9d7512a4ff43169dc26ce98bd5c05
@@ -3110,7 +3110,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 173, y: 213}
+    uvTransform: {x: 491, y: 125}
   - name: adventurer_156
     originalName: 
     pivot: {x: 0.21428572, y: -0.035714287}
@@ -3118,8 +3118,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 375
+      x: 494
+      y: 280
       width: 14
       height: 28
     spriteID: 5dda2574c01ce4109aaac78574c1a0f5
@@ -3130,7 +3130,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 375}
+    uvTransform: {x: 494, y: 280}
   - name: adventurer_158
     originalName: 
     pivot: {x: 0.33333334, y: -0.035714287}
@@ -3138,8 +3138,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 96
-      y: 213
+      x: 115
+      y: 238
       width: 18
       height: 28
     spriteID: 6b6d845025d164f0ebdf82f49f7385a9
@@ -3150,7 +3150,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 96, y: 213}
+    uvTransform: {x: 115, y: 238}
   - name: adventurer_160
     originalName: 
     pivot: {x: 0.31249997, y: -0.03448276}
@@ -3158,8 +3158,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 142
-      y: 249
+      x: 150
+      y: 280
       width: 16
       height: 29
     spriteID: f33a972ff4b624275a4fb57606d78a38
@@ -3170,7 +3170,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 142, y: 249}
+    uvTransform: {x: 150, y: 280}
   - name: adventurer_161
     originalName: 
     pivot: {x: 0.47368422, y: -0.04761905}
@@ -3178,8 +3178,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 347
-      y: 316
+      x: 374
+      y: 347
       width: 19
       height: 21
     spriteID: fb7a52f0c584c4113a32de4480556a2b
@@ -3190,7 +3190,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 347, y: 316}
+    uvTransform: {x: 374, y: 347}
   - name: adventurer_162
     originalName: 
     pivot: {x: 0.49999997, y: -0.045454547}
@@ -3198,8 +3198,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 462
-      y: 213
+      x: 60
+      y: 347
       width: 20
       height: 22
     spriteID: 1a57d3bac49884ef6ad0996378d2eb21
@@ -3210,18 +3210,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 462, y: 213}
+    uvTransform: {x: 60, y: 347}
   - name: adventurer_163
     originalName: 
-    pivot: {x: 0.49999997, y: -0.04761905}
+    pivot: {x: 0.49999997, y: -0.045454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 456
-      y: 249
+      x: 88
+      y: 347
       width: 20
-      height: 21
+      height: 22
     spriteID: db02321f9bedb4953bd6592275464fd8
     spriteBone: []
     spriteOutline: []
@@ -3230,7 +3230,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 456, y: 249}
+    uvTransform: {x: 88, y: 347}
   - name: adventurer_164
     originalName: 
     pivot: {x: 0.47368422, y: -0.04761905}
@@ -3238,8 +3238,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 374
-      y: 316
+      x: 401
+      y: 347
       width: 19
       height: 21
     spriteID: 2ac27fcf5811e49e5887e15ccefff100
@@ -3250,7 +3250,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 374, y: 316}
+    uvTransform: {x: 401, y: 347}
   - name: adventurer_165
     originalName: 
     pivot: {x: 0.49999997, y: -0.045454547}
@@ -3258,8 +3258,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 166
-      y: 249
+      x: 116
+      y: 347
       width: 20
       height: 22
     spriteID: 6e3ab88e4aaf7405bb4bba00ca2224c8
@@ -3270,18 +3270,18 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 166, y: 249}
+    uvTransform: {x: 116, y: 347}
   - name: adventurer_166
     originalName: 
-    pivot: {x: 0.49999997, y: -0.04761905}
+    pivot: {x: 0.49999997, y: -0.045454547}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 484
-      y: 249
+      x: 144
+      y: 347
       width: 20
-      height: 21
+      height: 22
     spriteID: c891a2e9be1a6418ba4a2073fde5ce28
     spriteBone: []
     spriteOutline: []
@@ -3290,7 +3290,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 484, y: 249}
+    uvTransform: {x: 144, y: 347}
   - name: adventurer_167
     originalName: 
     pivot: {x: 0.26923072, y: -0.040000003}
@@ -3298,8 +3298,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 388
-      y: 77
+      x: 358
+      y: 48
       width: 26
       height: 25
     spriteID: 0def7178a33814ce7be3ae52c7edc7d3
@@ -3310,7 +3310,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 388, y: 77}
+    uvTransform: {x: 358, y: 48}
   - name: adventurer_168
     originalName: 
     pivot: {x: 0.34615386, y: -0.13636363}
@@ -3318,8 +3318,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 101
-      y: 114
+      x: 272
+      y: 125
       width: 26
       height: 22
     spriteID: 2cf98162e4d8541899c9acf64aa93f74
@@ -3330,7 +3330,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 101, y: 114}
+    uvTransform: {x: 272, y: 125}
   - name: adventurer_169
     originalName: 
     pivot: {x: 0.2857143, y: -0.04347826}
@@ -3338,8 +3338,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 471
-      y: 146
+      x: 376
+      y: 238
       width: 21
       height: 23
     spriteID: 493737b58db5f4504a9fe3185caad947
@@ -3350,7 +3350,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 471, y: 146}
+    uvTransform: {x: 376, y: 238}
   - name: adventurer_170
     originalName: 
     pivot: {x: 0.3076923, y: -0.08695652}
@@ -3358,8 +3358,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 479
+      x: 171
+      y: 125
       width: 26
       height: 23
     spriteID: 35877ffefd9024aeaabf3df85b29d6a5
@@ -3370,7 +3370,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 479}
+    uvTransform: {x: 171, y: 125}
   - name: adventurer_171
     originalName: 
     pivot: {x: 0.34615386, y: -0.21052632}
@@ -3378,8 +3378,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 408
-      y: 146
+      x: 257
+      y: 238
       width: 26
       height: 19
     spriteID: c8c0f64cd38184b2b8268525c997fa07
@@ -3390,7 +3390,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 408, y: 146}
+    uvTransform: {x: 257, y: 238}
   - name: adventurer_173
     originalName: 
     pivot: {x: 0.42857143, y: -0.19230768}
@@ -3398,8 +3398,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 329
+      x: 143
+      y: 161
       width: 21
       height: 26
     spriteID: 1eb361b4f5c7b43eea3c9e4b645f992c
@@ -3410,7 +3410,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 329}
+    uvTransform: {x: 143, y: 161}
   - name: adventurer_174
     originalName: 
     pivot: {x: 0.39999998, y: -0.3181818}
@@ -3418,8 +3418,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 194
-      y: 249
+      x: 172
+      y: 347
       width: 20
       height: 22
     spriteID: 2f74343c3693b423090c9946e4d691cc
@@ -3430,7 +3430,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 194, y: 249}
+    uvTransform: {x: 172, y: 347}
   - name: adventurer_175
     originalName: 
     pivot: {x: 0.48000002, y: -0.2272727}
@@ -3438,8 +3438,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 239
-      y: 114
+      x: 400
+      y: 125
       width: 25
       height: 22
     spriteID: cadd469e8b68b4fc6872a11be21a2c23
@@ -3450,7 +3450,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 239, y: 114}
+    uvTransform: {x: 400, y: 125}
   - name: adventurer_176
     originalName: 
     pivot: {x: 0.4545454, y: -0.20833331}
@@ -3458,8 +3458,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 375
-      y: 114
+      x: 359
+      y: 161
       width: 22
       height: 24
     spriteID: 8cc799291372545c0ac0058a20eb2217
@@ -3470,7 +3470,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 375, y: 114}
+    uvTransform: {x: 359, y: 161}
   - name: adventurer_177
     originalName: 
     pivot: {x: 0.4210526, y: -0.2173913}
@@ -3478,8 +3478,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 222
-      y: 249
+      x: 4
+      y: 377
       width: 19
       height: 23
     spriteID: df936253055364ddfb1f1641f327bf11
@@ -3490,7 +3490,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 222, y: 249}
+    uvTransform: {x: 4, y: 377}
   - name: adventurer_9
     originalName: 
     pivot: {x: 0.45000002, y: -0.037037037}
@@ -3498,8 +3498,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 40
-      y: 473
+      x: 270
+      y: 161
       width: 20
       height: 27
     spriteID: e788eeeb7baf64190bc6dcee39f5f4f6
@@ -3510,7 +3510,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 40, y: 473}
+    uvTransform: {x: 270, y: 161}
   - name: adventurer_13
     originalName: 
     pivot: {x: 0.45000002, y: -0.040000003}
@@ -3518,8 +3518,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 380
-      y: 146
+      x: 202
+      y: 238
       width: 20
       height: 25
     spriteID: 5dfbc2aebceb549c0b87ee3ae7bcc3ad
@@ -3530,7 +3530,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 380, y: 146}
+    uvTransform: {x: 202, y: 238}
   - name: adventurer_84
     originalName: 
     pivot: {x: 0.46153846, y: -0.18518518}
@@ -3538,8 +3538,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 139
-      y: 383
+      x: 390
+      y: 408
       width: 13
       height: 27
     spriteID: bc15bf46e8318404c9c2606c918ab20a
@@ -3550,7 +3550,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 139, y: 383}
+    uvTransform: {x: 390, y: 408}
   - name: adventurer_145
     originalName: 
     pivot: {x: 0.88888884, y: -0.09090909}
@@ -3558,8 +3558,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 232
-      y: 350
+      x: 145
+      y: 377
       width: 27
       height: 11
     spriteID: fcc3749c7bb4f4efd8a8d1421fe9eeba
@@ -3570,7 +3570,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 232, y: 350}
+    uvTransform: {x: 145, y: 377}
   - name: adventurer_147
     originalName: 
     pivot: {x: 0.72413796, y: -0.14285715}
@@ -3578,8 +3578,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 316
-      y: 350
+      x: 444
+      y: 223
       width: 29
       height: 7
     spriteID: bc0e9864393bd42d78826c39ba222b89
@@ -3590,7 +3590,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 316, y: 350}
+    uvTransform: {x: 444, y: 223}
   - name: adventurer_148
     originalName: 
     pivot: {x: 0.72413796, y: -0.14285715}
@@ -3598,8 +3598,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 353
-      y: 350
+      x: 360
+      y: 221
       width: 29
       height: 7
     spriteID: 0bccaa1dbde01441ab8bcdef0d92a211
@@ -3610,7 +3610,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 353, y: 350}
+    uvTransform: {x: 360, y: 221}
   - name: adventurer_157
     originalName: 
     pivot: {x: 0.3333333, y: -0.03448276}
@@ -3618,8 +3618,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 249
-      y: 249
+      x: 4
+      y: 408
       width: 15
       height: 29
     spriteID: 951748bc9a3b64d51a431fc02050c314
@@ -3630,7 +3630,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 249, y: 249}
+    uvTransform: {x: 4, y: 408}
   - name: adventurer_159
     originalName: 
     pivot: {x: 0.375, y: -0.035714287}
@@ -3638,8 +3638,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 382
-      y: 213
+      x: 470
+      y: 280
       width: 16
       height: 28
     spriteID: aa5b66545c3d44bd8aa46f7650c3901e
@@ -3650,7 +3650,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 382, y: 213}
+    uvTransform: {x: 470, y: 280}
   - name: adventurer_172
     originalName: 
     pivot: {x: 0.30434778, y: -0.04347826}
@@ -3658,8 +3658,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 314
-      y: 114
+      x: 298
+      y: 161
       width: 23
       height: 23
     spriteID: afef73afd4d00441e95020098f8e6c6d
@@ -3670,7 +3670,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 314, y: 114}
+    uvTransform: {x: 298, y: 161}
   - name: adventurer_178
     originalName: 
     pivot: {x: 0.4583333, y: -0.2272727}
@@ -3678,8 +3678,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 405
-      y: 114
+      x: 389
+      y: 161
       width: 24
       height: 22
     spriteID: 0fa731e6ec85b4437a03a7b51985c0cb
@@ -3690,7 +3690,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 405, y: 114}
+    uvTransform: {x: 389, y: 161}
   asepriteLayers:
   - layerIndex: 0
     name: adventurer
@@ -3751,7 +3751,7 @@ ScriptedImporter:
         x: 15
         y: 1
         width: 19
-        height: 21
+        height: 22
       spriteId: 2ebe7bc8b24254067bab060bf9e02072
     - name: adventurer_7
       frameIndex: 7
@@ -3831,30 +3831,30 @@ ScriptedImporter:
         x: 18
         y: 9
         width: 15
-        height: 20
+        height: 21
       spriteId: 2474b560e51574191b4d8c4face84fce
     - name: adventurer_19
       frameIndex: 19
       cellRect:
         x: 14
         y: 10
-        width: 23
+        width: 24
         height: 17
       spriteId: d05aa42ed2fe9418380d81cc9537fd8e
     - name: adventurer_20
       frameIndex: 20
       cellRect:
         x: 20
-        y: 7
+        y: 6
         width: 18
-        height: 20
+        height: 21
       spriteId: a49bbcd65c4154d05b86686f0963e5b7
     - name: adventurer_21
       frameIndex: 21
       cellRect:
-        x: 14
+        x: 11
         y: 7
-        width: 23
+        width: 26
         height: 17
       spriteId: 6443bb1eb482b4705a384f6fca7c1c39
     - name: adventurer_22
@@ -3916,17 +3916,17 @@ ScriptedImporter:
     - name: adventurer_29
       frameIndex: 29
       cellRect:
-        x: 22
+        x: 21
         y: 0
-        width: 13
+        width: 14
         height: 34
       spriteId: 263a242b58634436489477148bbe8e98
     - name: adventurer_30
       frameIndex: 30
       cellRect:
-        x: 22
+        x: 21
         y: 0
-        width: 13
+        width: 14
         height: 34
       spriteId: ecdd0935423a046598dceb422a6b2a1b
     - name: adventurer_31
@@ -3988,49 +3988,49 @@ ScriptedImporter:
     - name: adventurer_38
       frameIndex: 38
       cellRect:
-        x: 14
+        x: 10
         y: 1
-        width: 19
+        width: 23
         height: 27
       spriteId: e79e607eb2a0c4ca8b74ea23af44ef08
     - name: adventurer_39
       frameIndex: 39
       cellRect:
-        x: 16
+        x: 10
         y: 1
-        width: 17
+        width: 23
         height: 27
       spriteId: bb8638b6a799a4319bde400bad43b0b7
     - name: adventurer_40
       frameIndex: 40
       cellRect:
-        x: 15
+        x: 9
         y: 1
-        width: 19
+        width: 25
         height: 28
       spriteId: 9ac337c18be194a1bbd0a53858967ed5
     - name: adventurer_41
       frameIndex: 41
       cellRect:
-        x: 13
+        x: 9
         y: 1
-        width: 21
+        width: 25
         height: 28
       spriteId: b340258b2346146609b4800abf181c69
     - name: adventurer_42
       frameIndex: 42
       cellRect:
-        x: 15
+        x: 7
         y: 1
-        width: 19
+        width: 27
         height: 22
       spriteId: 6914898f1659e4162822bf1e9a1f3fed
     - name: adventurer_43
       frameIndex: 43
       cellRect:
-        x: 15
+        x: 8
         y: 1
-        width: 18
+        width: 25
         height: 20
       spriteId: eb6298023a6e1415b9bef4329d89faf4
     - name: adventurer_44
@@ -4092,49 +4092,49 @@ ScriptedImporter:
     - name: adventurer_51
       frameIndex: 51
       cellRect:
-        x: 3
+        x: 2
         y: 1
-        width: 31
+        width: 32
         height: 21
       spriteId: fc607b5fbd85a4698a6d32b27759cb82
     - name: adventurer_52
       frameIndex: 52
       cellRect:
-        x: 3
+        x: 2
         y: 1
-        width: 30
+        width: 31
         height: 22
       spriteId: a0a042934c8714baba577f642c06c68a
     - name: adventurer_53
       frameIndex: 53
       cellRect:
-        x: 20
+        x: 19
         y: 1
-        width: 19
+        width: 20
         height: 26
       spriteId: ffb2179cc6aed43c69fb63dca3e5c4c3
     - name: adventurer_54
       frameIndex: 54
       cellRect:
-        x: 21
+        x: 20
         y: 1
-        width: 19
+        width: 20
         height: 26
       spriteId: 703796ab03c08487eac5f0dfd324aae8
     - name: adventurer_55
       frameIndex: 55
       cellRect:
-        x: 3
+        x: 2
         y: 1
-        width: 47
+        width: 48
         height: 23
       spriteId: 85e563603d9ac4bbc87155fc0093a897
     - name: adventurer_56
       frameIndex: 56
       cellRect:
-        x: 4
+        x: 3
         y: 1
-        width: 30
+        width: 32
         height: 19
       spriteId: a7be018e26c384371896ecced787225b
     - name: adventurer_57
@@ -4148,9 +4148,9 @@ ScriptedImporter:
     - name: adventurer_58
       frameIndex: 58
       cellRect:
-        x: 13
+        x: 0
         y: 1
-        width: 21
+        width: 34
         height: 20
       spriteId: 65d9225dc01fd43e1be25c9c0e9faa5c
     - name: adventurer_59
@@ -4158,7 +4158,7 @@ ScriptedImporter:
       cellRect:
         x: 16
         y: 1
-        width: 17
+        width: 21
         height: 24
       spriteId: 1be789b7af38349adafdeaa6e544d225
     - name: adventurer_60
@@ -4166,7 +4166,7 @@ ScriptedImporter:
       cellRect:
         x: 17
         y: 1
-        width: 18
+        width: 19
         height: 24
       spriteId: d0b98b73834be48c5bd8d63b9190bcf8
     - name: adventurer_61
@@ -4182,7 +4182,7 @@ ScriptedImporter:
       cellRect:
         x: 16
         y: 1
-        width: 17
+        width: 21
         height: 24
       spriteId: ce6792bff42934534b6c6405c5e1fbb5
     - name: adventurer_63
@@ -4190,7 +4190,7 @@ ScriptedImporter:
       cellRect:
         x: 17
         y: 1
-        width: 18
+        width: 19
         height: 24
       spriteId: 014a0298457b146d5a57d4bbade17a16
     - name: adventurer_64
@@ -4206,7 +4206,7 @@ ScriptedImporter:
       cellRect:
         x: 16
         y: 1
-        width: 21
+        width: 22
         height: 22
       spriteId: d7318009cb3d245d88438b68c632d364
     - name: adventurer_66
@@ -4214,7 +4214,7 @@ ScriptedImporter:
       cellRect:
         x: 18
         y: 1
-        width: 17
+        width: 18
         height: 18
       spriteId: 5b8bfdc7b74b74c8ca011ff6c3f2c49e
     - name: adventurer_67
@@ -4222,7 +4222,7 @@ ScriptedImporter:
       cellRect:
         x: 21
         y: 1
-        width: 14
+        width: 15
         height: 17
       spriteId: fda09ec5f2fdc4155bf9c4ad0394c81e
     - name: adventurer_68
@@ -4230,7 +4230,7 @@ ScriptedImporter:
       cellRect:
         x: 18
         y: 1
-        width: 17
+        width: 18
         height: 18
       spriteId: 0c9a6e7253ba04e858403ad8a23aab9f
     - name: adventurer_69
@@ -4252,34 +4252,34 @@ ScriptedImporter:
     - name: adventurer_71
       frameIndex: 71
       cellRect:
-        x: 15
+        x: 13
         y: 1
-        width: 17
-        height: 28
+        width: 19
+        height: 29
       spriteId: 4a744f871980d454f914701c2769ff43
     - name: adventurer_72
       frameIndex: 72
       cellRect:
-        x: 14
+        x: 8
         y: 1
-        width: 18
-        height: 26
+        width: 24
+        height: 29
       spriteId: 7a7767950ec7d4286a4de96c02551295
     - name: adventurer_73
       frameIndex: 73
       cellRect:
-        x: 14
+        x: 8
         y: 1
-        width: 18
-        height: 26
+        width: 24
+        height: 29
       spriteId: 511afbc5d7d7d42e0a1c951cd2b5075b
     - name: adventurer_74
       frameIndex: 74
       cellRect:
-        x: 14
+        x: 13
         y: 1
-        width: 18
-        height: 28
+        width: 19
+        height: 29
       spriteId: e71323b8136c94ead87da1c2e3e750d5
     - name: adventurer_75
       frameIndex: 75
@@ -4372,9 +4372,9 @@ ScriptedImporter:
     - name: adventurer_87
       frameIndex: 87
       cellRect:
-        x: 17
+        x: 16
         y: 1
-        width: 16
+        width: 17
         height: 25
       spriteId: eef906983a140432c915b384a699f829
     - name: adventurer_88
@@ -4391,7 +4391,7 @@ ScriptedImporter:
         x: 15
         y: 1
         width: 27
-        height: 23
+        height: 24
       spriteId: ce3d3d69e4cb0436ebd46c8dac46178e
     - name: adventurer_90
       frameIndex: 90
@@ -4399,7 +4399,7 @@ ScriptedImporter:
         x: 13
         y: 1
         width: 29
-        height: 23
+        height: 24
       spriteId: 44a80e8274c544b9fb9b9085ec0f9c92
     - name: adventurer_91
       frameIndex: 91
@@ -4407,7 +4407,7 @@ ScriptedImporter:
         x: 15
         y: 1
         width: 27
-        height: 23
+        height: 24
       spriteId: 97fb7bddbf8f942c4af2b974891241f4
     - name: adventurer_92
       frameIndex: 92
@@ -4415,7 +4415,7 @@ ScriptedImporter:
         x: 13
         y: 1
         width: 29
-        height: 23
+        height: 24
       spriteId: 11961ac4dbb834c59af9c2fa1212ada6
     - name: adventurer_93
       frameIndex: 93
@@ -4463,15 +4463,15 @@ ScriptedImporter:
         x: 6
         y: 4
         width: 29
-        height: 29
+        height: 30
       spriteId: 425125a23cefe4f59957d941d427881c
     - name: adventurer_99
       frameIndex: 99
       cellRect:
-        x: 15
+        x: 5
         y: 4
-        width: 17
-        height: 24
+        width: 27
+        height: 31
       spriteId: 3d17fff2f437a407686692be4115d606
     - name: adventurer_100
       frameIndex: 100
@@ -4943,7 +4943,7 @@ ScriptedImporter:
         x: 15
         y: 1
         width: 20
-        height: 21
+        height: 22
       spriteId: db02321f9bedb4953bd6592275464fd8
     - name: adventurer_164
       frameIndex: 164
@@ -4967,7 +4967,7 @@ ScriptedImporter:
         x: 15
         y: 1
         width: 20
-        height: 21
+        height: 22
       spriteId: c891a2e9be1a6418ba4a2073fde5ce28
     - name: adventurer_167
       frameIndex: 167
